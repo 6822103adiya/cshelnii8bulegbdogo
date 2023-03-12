@@ -1,0 +1,12 @@
+using System;
+using System.Text;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.OutputEncoding = Encoding.UTF8;
+        string урт_эгшиг_агуулсан_үг = "Хоёр хүн хоёр хошин ургахгүй байгаа байхыг хүсэнэ.";
+        Console.WriteLine(урт_эгшиг_агуулсан_үг);
+    }
+}
